@@ -1,3 +1,8 @@
+# Video of the App
+
+[![Watch the video](https://github.com/ishangupta-1510/RecipeHub/blob/main/Screencast%20from%2027-06-22%2011:50:56%20AM%20IST.webm)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
